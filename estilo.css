@@ -1,0 +1,162 @@
+#tudo {
+    margin-left: -70px;
+}
+/*----------------------------------------------------------------------------------------------*/
+.topo {
+    top: 0px; 
+    left: 0px; 
+    width: 100%; 
+    height:12px; 
+    z-index: 100; 
+    position: fixed;
+}
+
+#header {
+    margin-left: 310px;
+    
+}
+
+#menu {
+    margin-left: 380px; 
+    margin-top: -32px; 
+    position: absolute;
+}
+
+#menutop { 
+    background: transparent;
+}
+#menutop a {   
+    font-size: 11px; 
+    font-family: Consolas; 
+    color: #fff; 
+    padding: 5px 5px 5px 5px; 
+    margin: 4px; 
+    text-shadow: 0px 1px 1px #86c0bc; 
+    float: left; 
+    text-transform: uppercase; 
+    text-align: center; 
+}
+#menutop a:hover { 
+    background: #fff; 
+    height: 13px; 
+    color: #555454; 
+    text-shadow: 0px 1px 1px #fff; 
+    padding: 5px 5px 5px 5px; 
+    margin: 4px; 
+    float: left; 
+    font-size: 11px; 
+    text-align: center;
+}
+/*----------------------------------------------------------------------------------------------Gravador*/
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #F2F2F2;
+    color: #444444;
+}
+
+#main { 
+    width: 500px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0 5px #333333;
+    margin-left: 55px;
+}
+
+.caixaTexto {
+    display: block;
+    width: 90%;
+    margin: 10px auto;
+}
+.caixaTexto1 {
+    display: block;
+    width: 50%;
+    margin: 10px auto;
+}
+
+#gravar {
+    display: block;
+    margin: 10px auto;
+}
+
+#tituloApp {
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.item-show {
+    width: 95%;
+    margin: 10px auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px gray;
+}
+
+.item-hide {
+    display: none;    
+}
+
+.item-title {
+    padding: 10px;
+    font-weight: bold;
+    background-color: #9bd8d4;
+    color: white;
+    border-radius: 5px 5px 0 0;
+}
+/*----------------------------------------------------------------------------------------------*/
+
+#font {
+    font-family: arial;
+    background-color: white; 
+    cursor: crosshair; 
+    line-height: 21px; 
+    transition: 0.7s ease-out;
+    color: #a64d79;
+    font-size: 12px;
+}
+/*----------------------------------------------------------------------------------------------*/
+#conteudo {
+    width: 670px;
+    background-color: white;
+    position:absolute;
+    left: 44%;
+    margin-left: -360px;
+}
+/*----------------------------------------------------------------------------------------------*/
+#estrelas {
+    margin-left: 170px;
+}
+/*----------------------------------------------------------------------------------------------*/
+
+#sobre {
+    width: 210px;
+    height: 300px;
+    margin-left: 926px; 
+    margin-top: -1px; 
+    position: absolute;
+}
+
+.caixinha {
+    background: #f0f0f0;
+    border: 3px solid #9bd8d4;
+    font-family: Gergia;
+    font-size: 12px;
+    color: #646464;
+    text-shadow: 1px 1px 0px #fff;
+    padding: 8px 8px 8px 8px;
+    height: 84px;
+    width: 165px;
+    margin-left: 938px;
+    margin-top: 320px; 
+    text-align: center;
+    position: absolute;
+}
+
+.branco {
+    width: 210px;
+    height: 130px;
+    margin-left: 926px;
+    margin-top: 308px; 
+}
+/*----------------------------------------------------------------------------------------------*/
+
